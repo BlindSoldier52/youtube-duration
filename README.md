@@ -40,7 +40,7 @@ It doesn't collect anything and talks to no server other than YouTube.
 
 ## Problems
 
-YouTube changes its layout often, and when it does the duration may stop showing up in some places. If that happens, please open an issue and say which page you were on, or feel free to send a pool request with the fixed version.
+YouTube changes its layout often, and when it does the duration may stop showing up in some places. If that happens, please open an issue and say which page you were on, or feel free to send a pull request with the fixed version.
 
 ## License
 
