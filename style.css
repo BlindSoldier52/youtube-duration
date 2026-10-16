@@ -1,0 +1,12 @@
+#yt-duration-label {
+	margin: 4px 0 0;
+	font-size: 1.4rem;
+	color: var(--yt-spec-text-secondary, #606060);
+}
+
+.yt-duration-item {
+	display: block;
+	margin-top: 2px;
+	font-size: 1.2rem;
+	color: var(--yt-spec-text-secondary, #606060);
+}

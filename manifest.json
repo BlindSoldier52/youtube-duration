@@ -1,0 +1,14 @@
+{
+	"manifest_version": 3,
+	"name": "YouTube Duration",
+	"version": "1.0.0",
+	"description": "Shows the length of the current YouTube video under its title.",
+	"content_scripts": [
+		{
+			"matches": ["https://www.youtube.com/*"],
+			"js": ["content.js"],
+			"css": ["style.css"],
+			"run_at": "document_idle"
+		}
+	]
+}
