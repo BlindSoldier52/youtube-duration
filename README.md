@@ -41,3 +41,7 @@ It doesn't collect anything and talks to no server other than YouTube.
 ## Problems
 
 YouTube changes its layout often, and when it does the duration may stop showing up in some places. If that happens, please open an issue and say which page you were on.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
